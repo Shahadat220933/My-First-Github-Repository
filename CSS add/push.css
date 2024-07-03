@@ -3,3 +3,9 @@ div{
     border: 10px solid orange;
     padding: 10px;
 }
+header{
+    height: 300px;
+    width: 500px;
+    background-image: url('../pxfuel\ \(1\).jpg');
+    background-size: contain;
+}
